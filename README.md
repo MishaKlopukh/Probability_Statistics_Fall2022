@@ -8,7 +8,7 @@
 
 ## Weekly Lab Reports
 
-[Lab #1](https://colab.research.google.com/drive/1d5oOeda9yEklbWgchnf0DlztTANeOJdx?usp=sharing)
+[Lab #1](https://colab.research.google.com/github/MishaKlopukh/Probability_Statistics_Fall2022/blob/main/Lab_1.ipynb)
 
 [Lab #2](https://colab.research.google.com/drive/1_DFeioN0leaejbxzFZMsqPTTUDDcNY-D?usp=sharing)
 
